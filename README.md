@@ -31,7 +31,7 @@ SHARING/ACCESS INFORMATION
 These data are available under a CC BY 4.0 license <https://creativecommons.org/licenses/by/4.0/> 
 
 2-Recommended citation for this repository:
-Chen, T.-C. And A. Di Luca (2025). ting-chenCHEN/Scripts_for_Characteristics_of_Precipitation_and_Wind_Extremes_induced_by_ETCs. https://doi.org/10.5281/ZENODO.14976915
+Chen, T.-C., & Di Luca, A. (2025). ETC-induced Precipitation and Wind Extremes analysis (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.14976915
 
 -----------------------------
 FILE OVERVIEW
