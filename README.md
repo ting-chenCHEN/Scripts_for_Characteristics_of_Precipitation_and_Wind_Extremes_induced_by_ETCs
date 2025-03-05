@@ -30,7 +30,7 @@ SHARING/ACCESS INFORMATION
 1-Licenses/Restrictions placed on the data: 
 These data are available under a CC BY 4.0 license <https://creativecommons.org/licenses/by/4.0/> 
 
-2-Recommended citation for this dataset:
+2-Recommended citation for this repository:
 Chen, T.-C. And A. Di Luca (2025). ting-chenCHEN/Scripts_for_Characteristics_of_Precipitation_and_Wind_Extremes_induced_by_ETCs. https://doi.org/10.5281/ZENODO.14976915
 
 -----------------------------
