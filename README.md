@@ -23,6 +23,16 @@ This research has been made as part of the project “Simulation et analyse du c
 
 A. Di Luca was funded by the Natural Sciences and Engineering Research Council of Canada (NSERC) grant (RGPIN-2020-05631). 
 
+--------------------------------------------------
+SHARING/ACCESS INFORMATION
+--------------------------------------------------
+
+1-Licenses/Restrictions placed on the data: 
+These data are available under a CC BY 4.0 license <https://creativecommons.org/licenses/by/4.0/> 
+
+2-Recommended citation for this dataset:
+Chen, T.-C. And A. Di Luca (2025). ting-chenCHEN/Scripts_for_Characteristics_of_Precipitation_and_Wind_Extremes_induced_by_ETCs. https://doi.org/10.5281/ZENODO.14976915
+
 -----------------------------
 FILE OVERVIEW
 -----------------------------
